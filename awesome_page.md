@@ -16,9 +16,9 @@
         <img src="Screenshot.PNG">
       </p>
       <p>
-        <a href="http://www.huffingtonpost.com/" Huffington Post>
+        <a href="http://www.huffingtonpost.com/" Huffington Po>
       </p>
-      
+
     </body>
 
 </html>
